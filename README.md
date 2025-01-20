@@ -1,6 +1,6 @@
 # La Buenorra 🍔
 
-**La Buenorra** is a fictional burger restaurant website created as a class project for our English class. Built by three friends, it showcases a simple yet attractive design.
+**La Buenorra** is a fictional burger restaurant website created as a class project for our English class. The website was designed and built by me and three friends as part of our assignment.
 
 ## 🌟 Features
 
