@@ -13,4 +13,4 @@
 
 1. Download the files or clone the repository:
    ```bash
-   git clone https://github.com/AimedDineChebili/La-Buenorra-Web.git
+   git clone https://github.com/AimedCh/La-Buenorra-Web.git
